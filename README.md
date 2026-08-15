@@ -110,3 +110,4 @@ MIT License
 このツールはYouTube、Google、OBS Projectとは無関係の非公式ツールです。
 
 本ソフトウェアは無保証です。利用は自己責任でお願いします。
+
