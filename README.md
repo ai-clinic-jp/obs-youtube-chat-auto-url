@@ -165,4 +165,4 @@ MIT License
 
 本ソフトウェアは無保証です。利用は自己責任でお願いします。
 
-<!-- repository metadata refresh -->
+<!-- verified merge refresh -->
